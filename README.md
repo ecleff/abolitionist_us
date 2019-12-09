@@ -4,8 +4,10 @@
 
 Check it out here: https://abolitionistusfinal.shinyapps.io/aus_project/
 
-Sources:
-Indigenous land data - https://catalog.data.gov/dataset/2017-cartographic-boundary-file-current-american-indian-alaska-native-native-hawaiian-areas-for
+## Sources:
+
+
+Indigenous land data: https://catalog.data.gov/dataset/2017-cartographic-boundary-file-current-american-indian-alaska-native-native-hawaiian-areas-for
 
 Oldest universities data: https://www.niche.com/blog/the-25-oldest-colleges-in-america/
 
